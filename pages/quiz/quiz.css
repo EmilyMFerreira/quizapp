@@ -65,9 +65,6 @@ header{
     gap: 16px;
 }
 
-
-
-
 .assuntoIcone{
     background: var(--bg-acessibilidade);
     padding: 5px;
@@ -79,6 +76,23 @@ header{
 .assuntoIcone img{
     width: 100%;
 }
+
+.assuntoIcone.html{
+    background: var(--bg-html);
+}
+
+.assuntoIcone.css{
+    background: var(--bg-css);
+}
+
+.assuntoIcone.javascript{
+    background: var(--bg-js);
+}
+
+.assuntoIcone.acessibilidade{
+    background: var(--bg-acessibilidade);
+}
+
 
 
 .assunto h1{
